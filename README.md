@@ -16,6 +16,7 @@ You can install the necessary Python packages using pip:
 ```bash
 pip install opencv-python tensorflow
 
+```
 
 ## Screenshots
 
